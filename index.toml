@@ -101,11 +101,6 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
 metafile = true
@@ -151,6 +146,16 @@ hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "1d7c3b35ec9f215140a7cb53818cd064ec045de5159df88e048a190c00e3f4c8"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
+metafile = true
+
+[[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "bd07efacced5ec36b00a5832341173d6a71868e6b34afa872e17474b92702a85"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "248562f7717f02d954ea1b73c03033a666db6f5c9156f331cb0287869626d6da"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "db6c0f64bdae1399fc2bd0135b0e190b5080ea300ea8fab1649d966a7256b082"
 metafile = true
 
 [[files]]
@@ -232,10 +242,14 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d02dc7b9dfbdc0aa217601fc19536afa2848f9def56fbd25c6f4bd3caa9d8d92"
+hash = "232f19875a0128f2ea8134a62fbd5cb7481fa14f0af25edfb26d6580ec9e2847"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.7.2.zip"
+hash = "33781e830b5ae1ebee2156f7d5011ef1697de5661c3e8b9a118ec78ac1797b57"
