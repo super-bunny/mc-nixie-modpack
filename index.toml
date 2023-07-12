@@ -111,6 +111,11 @@ hash = "f6e9ab48216ca5c075e27cc5f86bc1b20ac306626ca984a4fb519b4b41e411f0"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat.pw.toml"
+hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
+metafile = true
+
+[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
