@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4631169
 project-id = 659897
+
+[option]
+optional = true
+default = true
+description = "Prevent Create mod to cause lag with shaders"

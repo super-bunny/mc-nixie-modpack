@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "deploy.sh"
+hash = "42575000bc780febc1948284e357e4685f88e6cc4a2a5866a31995b8345d44e1"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "1be3c626f8c8e445e57444f2559dc590edafc75b6c8c18d4599703dbc614a7e8"
 metafile = true
@@ -112,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
+hash = "6993fba58728a7e12a3075d03c693e79a7b4d0c251ef8c078178b158544bb5d7"
 metafile = true
 
 [[files]]
