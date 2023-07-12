@@ -31,12 +31,12 @@ metafile = true
 
 [[files]]
 file = "mods/camera-mod.pw.toml"
-hash = "0d5bbcc4013db1212d188c3a2e3ca971f4f47a64ba74957e9e544393bd0c407d"
+hash = "f1c8bbcb6ab04ec4be0925076cbec2e6e3014a39dc909a082b09e2532ada1b48"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "9a0923ead8905649bc1260301508dc349ec7dd134fd8278a67e144d1f3ed68df"
+hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
-hash = "a817a6672045840895ac62cea0ced3febc0e93ed96fe17cb2141d43ae32811a8"
+hash = "3f4c4eb77b2ed2697507b7b9b911e19be8cd329bd9ee035a64ec1401789ca0c6"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "89bf28ca15640301ff8cf651ccbcae3047cbaf6af30797f739bfa45d1f2299ce"
+hash = "c0c8819595b27c1aff854c8570acc3fe87dd42d88d8219e7abdd4781257d6ac2"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "fc61146eab089feb4f979289ba3aca698b538aa5bd3eba5f18ac0c80090c589f"
+hash = "8189165b2426b999ed9621cb79aacab2635f3220fac15716a6f43084a0eb0986"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "54e8cddcc8fdadda043465955fd392d1d9ba042a1e0e23f1041530137298b6e9"
+hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "513bb7db82eaaef89ba1c34ec5b9aa416888bb7623df7fb2547b5855a76122ef"
+hash = "eba590c92139d2b42795ee57e94a1fbff36f98d88c6ea2973080729389b463f1"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9350b6d7d8ab73ce56ad757c577ada54348c9ce1933c1f282da9e76a78b9ec16"
+hash = "1000f9959cc5c55b1842228be2717c145fa63925bd9a35213942a5f3857ff91a"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "55a4c89651ca5abb88ea33623c255fb0370a4c71f893a5f1d7469d0d372708b6"
+hash = "f2aabb6fca1ed6ff68ace2c7e130f024a11c72ad3f2866c42ff4ef97b176ae7c"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
+hash = "37bd46aee9f110535261d6ff6c0f1ad7cdc6a38740120896209a92b2f27b20bc"
 metafile = true
 
 [[files]]
@@ -241,22 +241,22 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ecaa55c3362f3faea6d7575e603e35a7b80761708ab727d6c898733dba966b95"
+hash = "f78066e4854ca09c84d962e028c8b3e1f2f095766db28680dc5ada6472e9a447"
 metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "298569da2c35796964556d0e58eea073be1fd984ab10f7dd86794a055065bf1b"
+hash = "99950b4e23e8659f95fac92bf009ba374dcf1953488e7eea890e54e9c7adef5c"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "232f19875a0128f2ea8134a62fbd5cb7481fa14f0af25edfb26d6580ec9e2847"
+hash = "e10badbe6fe0888c26d26b7a5d9a908ea4a45cc30c588f08900a7a19449cf4f1"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "262e2dd498b28d5b10e10b8065ba49f39cbe2cc16f9cdf55c6d3c0ecf2f4b9fd"
+hash = "5d2ca495ef1faa94e3d8939f9388d7666a962d98c6d6dde085350d2aeac52367"
 metafile = true
 
 [[files]]

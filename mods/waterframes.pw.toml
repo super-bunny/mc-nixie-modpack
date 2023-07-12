@@ -1,13 +1,13 @@
-name = "WATERFrAMES | Online Little Picture Frames"
-filename = "waterframes-1.19.2-1.3.1d.jar"
+name = "WATERFrAMES: Online Little Picture Frames"
+filename = "waterframes-1.19.2-1.3.1e.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0a050bcac5f7cb79560343adc3f19783cc0471cd"
+hash = "1b2f83e6e21587f755106799768f6fa79b014f5c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4602119
+file-id = 4620640
 project-id = 834607
