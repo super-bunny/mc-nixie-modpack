@@ -25,6 +25,11 @@ hash = "22f47db1058d619e0ed6c6531eac43dd9b504addff8a2f1fc8ba2d4856a2feba"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "990d231aa5e6e771470237bf066c17986ed01cdb1ec7b65818149d8e5debc70e"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "9c243117cd73c80504b8c000e3939bbd9844a81c9f49f03ed8936bc0a50ec024"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
 hash = "63430209a289884a9838bb81769104b5def62929c898ff43379e397ff8caad55"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a261cb1277b4d120e6fd2b9f6c986dfea8212d4b197c85ff7772b7fba12a0c17"
 metafile = true
 
 [[files]]
@@ -102,6 +112,16 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "9561047ba478924e6cd2a23cb7911c3a6cc4a2467d7d56b01133069bd02c1979"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "be7e571d96df4be059d97ac435ac4fe4c180ca5d084b62e2e25343faae4ec238"
 metafile = true
 
 [[files]]

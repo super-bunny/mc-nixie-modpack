@@ -1,0 +1,18 @@
+name = "Distant Horizons: A Level of Detail mod"
+filename = "DistantHorizons-1.6.9a-1.19.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a77fb15f91a7b2838c9d402e9e01ed46a3f0cd02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3923597
+project-id = 508933
+
+[option]
+optional = true
+default = true
+description = "Add simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances.add simplified terrain past Minecraft's default view distance to improve performance and allow for longer draw distances."
