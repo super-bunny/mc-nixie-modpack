@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/servertabinfo-client.toml"
+hash = "d253dcb8c23eab8f6ebc99e89aa199f11be9ec00a5624f30da2ff2bc1fe9d513"
+
+[[files]]
 file = "deploy.sh"
 hash = "42575000bc780febc1948284e357e4685f88e6cc4a2a5866a31995b8345d44e1"
+
+[[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "fa6761046e6c511a6205b4a39a9e7dbe75fa07b81c6cb645f2e5f3f835304d60"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -32,6 +41,16 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "9c243117cd73c80504b8c000e3939bbd9844a81c9f49f03ed8936bc0a50ec024"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "2f25b51d4057bd82f313c9a1d06c0171c2b7ab6b19f7eba3ceb46732bca57cde"
 metafile = true
 
 [[files]]
@@ -225,6 +244,11 @@ hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
 metafile = true
 
 [[files]]
+file = "mods/server-tab-info.pw.toml"
+hash = "51e1688240dd89a1e03a600bc306bdfb24255042ea13ec773a05680c9a27a817"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "eba590c92139d2b42795ee57e94a1fbff36f98d88c6ea2973080729389b463f1"
 metafile = true
@@ -242,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "f2aabb6fca1ed6ff68ace2c7e130f024a11c72ad3f2866c42ff4ef97b176ae7c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
