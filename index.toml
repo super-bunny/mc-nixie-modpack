@@ -5,10 +5,6 @@ file = "config/servertabinfo-client.toml"
 hash = "d253dcb8c23eab8f6ebc99e89aa199f11be9ec00a5624f30da2ff2bc1fe9d513"
 
 [[files]]
-file = "deploy.sh"
-hash = "42575000bc780febc1948284e357e4685f88e6cc4a2a5866a31995b8345d44e1"
-
-[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "fa6761046e6c511a6205b4a39a9e7dbe75fa07b81c6cb645f2e5f3f835304d60"
 metafile = true
